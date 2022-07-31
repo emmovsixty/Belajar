@@ -1,0 +1,8 @@
+- java scripts
+  * reactJs
+ - python
+  * djanggo
+ - java
+  * android
+  * kotlin
+  
