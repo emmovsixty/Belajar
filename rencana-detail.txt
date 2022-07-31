@@ -3,7 +3,6 @@
  - python
   * djanggo
  - java
-  * android
-  * kotlin
+  * Spark
+  * Vaadin
  - github
-  * git
