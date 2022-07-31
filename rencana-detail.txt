@@ -1,8 +1,11 @@
 - java scripts
   * reactJs
  - python
-  * djanggo
+  * flask
  - java
-  * Spark
-  * Vaadin
+  * android
+  * kotlin
+  * Grails
  - github
+  * git
+- c++
