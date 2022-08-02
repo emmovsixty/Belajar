@@ -1,2 +1,2 @@
 # belajar
-repo belajar git hub
+Repo belajar selama libur semester
